@@ -3,8 +3,8 @@
 	"dbURI": "mongodb://roadtocode:password@ds025389.mlab.com:25389/roadtocode",
 	"sessionSecret": "catscanfly",
 	"fb": {
-		"clientID": "240676926281194",
-		"clientSecret": "f642d1e08b232f9edbb9227c31c51725",
+		"clientID": "",
+		"clientSecret": "",
 		"calbackURL": "//localhost:3000/auth/facbeook/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	}
