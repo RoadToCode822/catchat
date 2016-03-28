@@ -1,6 +1,6 @@
 {
 	"host": "http://localhost:3000",
-	"dbURI": "mongodb://roadtocode:password@ds025389.mlab.com:25389/roadtocode",
+	"dbURI": "",
 	"sessionSecret": "catscanfly",
 	"fb": {
 		"clientID": "",
